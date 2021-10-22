@@ -1,2 +1,2 @@
-# hbaghar.github.io
-Portfolio using GitHub Pages
+# Hriday Baghar
+MS in Data Science @ University of Washington, Seattle
