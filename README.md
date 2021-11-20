@@ -1,2 +1,4 @@
-# Hriday Baghar
-MS in Data Science @ University of Washington, Seattle
+# Education
+Master of Science in Data Science (March 2023 Expected)
+University of Washington, Seattle
+* Relevant coursework: Probability and Statistics, Data Vizualization s
