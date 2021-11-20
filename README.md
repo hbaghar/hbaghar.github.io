@@ -1,5 +1,6 @@
 # About me
-I'm an electronics engineer ⚡️  turned data analyst 📈  turned data scientist 👨🏽‍💻! I'm passionate about data science and it's applications in healthcare 🏥 , policy 🏛  and product 📱.
+I'm an electronics engineer - turned - data analyst - turned - data scientist! ⚡️➡📈➡👨🏽‍💻  
+I'm passionate about data science and it's applications in healthcare, policy and product. 🏥 🏛 📱
 
 * * *
 ## 🎓  Education
