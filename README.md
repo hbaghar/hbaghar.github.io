@@ -14,7 +14,8 @@ I'm an electronics engineer-turned-data analyst-turned-data scientist ⚡️ ➡
 _University of Washington_  
 _Seattle, WA_  
 _March 2023 (Expected)_
-- **📚  Relevant coursework:** Probability and Statistics, Data Vizualization, Applied Statistics and Experimental Design
+- **📊 GPA:** 4.0/4.0
+- **📚  Relevant coursework:** Probability and Statistics, Data Vizualization, Applied Statistics and Experimental Design, Software Design for Data Science
 
 * * *
 ## 💻  Projects
