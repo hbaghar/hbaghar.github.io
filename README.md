@@ -1,6 +1,6 @@
 # About me
 > I'm an electronics engineer-turned-data analyst-turned-data scientist ⚡️ ➡ 📈  ➡ 👨🏽‍💻. Interested in applications of data science in healthcare, policy and product 🏥 🏛 📱. My hobbies include: badminton 🏸, tennis 🎾, football ⚽️, travelling 🌍 and food 🍲     
-#### [Here's my resume 📄](Resume_Dec2021.pdf)
+#### [Here's my resume 📄](/assets/Resume_Jan2022.pdf)
 
 * * *
 ## 📨 Contact Me
