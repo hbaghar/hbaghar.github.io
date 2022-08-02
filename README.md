@@ -3,7 +3,7 @@ I'm an electronics engineer-turned-data analyst-turned-data scientist ⚡️ ➡
 
 Interests: badminton 🏸, tennis 🎾, football ⚽️, biking 🚴🏽‍♂️, traveling 🌍 and trying new food 🍲     
 
-#### [Here's my resume 📄](/assets/Resume_May2022.pdf)
+#### [Here's my resume 📄](/assets/Resume_July2022.pdf)
 
 Check out my GitHub profile for more code samples and things I've been studying and working on!
 
