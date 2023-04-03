@@ -2,9 +2,9 @@
 
 👋 Welcome to my personal website! My name is Hriday, and I am a 🤖 data scientist with an MS in Data Science from the University of Washington and a Bachelor's degree in Electronics and Communication Engineering from Vellore Institute of Technology. With a passion for using data to solve real-world problems, I have had the privilege of using data to solve interesting problems in 🏥 healthcare and 🌊 marine biology.
 
-My expertise lies in 🧠 machine learning and deep learning, 📊 statistical analysis, 📈 data wrangling and visualization, with a strong proficiency in programming languages such as SQL, Python, and R. I have worked with various tools such as 🚀 Databricks, 🌩️ AWS, ☁️ Azure, and 📊 Tableau.
+My expertise lies in machine learning and deep learning, statistical analysis, data wrangling and visualization, with a strong proficiency in programming languages such as SQL, Python, and R. I have worked with various tools such as 🚀 Databricks, 🌩️ AWS, ☁️ Azure, and 📊 Tableau.
 
-In my free time I enjoy outdoor 🌳 activities such as 🚴 biking, 🥾 hiking, 🎾 tennis, 🏸 badminton, 🏊 swimming, and playing around with 🤖 microcontrollers and 🏠 home automation.
+In my free time I enjoy outdoor activities such as 🚴 biking, 🥾 hiking, 🎾 tennis, 🏸 badminton, 🏊 swimming, and playing around with 📟 microcontrollers and 🏠 home automation.
 
 **[Here's my resume 📄](/assets/Resume_Mar2023.pdf)**
 
